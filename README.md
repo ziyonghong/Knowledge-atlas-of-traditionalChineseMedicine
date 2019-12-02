@@ -23,5 +23,3 @@ server：配合消息类反应消息
 &emsp; &emsp; &emsp; &emsp; 
 }  
 tool：工具包，有图片接受，以及操作本地数据的工具类
-
-
